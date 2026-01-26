@@ -233,7 +233,6 @@ Example screenshot requirements:
 - [ ] Environment variables documented (if applicable)
 - [ ] **Screenshots of running example included**
 - [ ] No API keys or secrets committed
-```
 
 ### 3. Required Demo Evidence
 
